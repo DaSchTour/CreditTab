@@ -15,7 +15,7 @@ $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'CreditTab',
 	'author' => '[http://www.dasch-tour.de DaSch]',
-	'version' =>  '1.2.2',
+	'version' =>  '1.3.0',
 	'descriptionmsg' => 'credits-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:CreditTab',
 );
@@ -54,7 +54,7 @@ function showCredits( $obj, &$content_actions ) {
 	} else {
 		$title = $obj->mTitle;
 	}
-	wfLoadExtensionMessages('CreditTab');
+
 	$ctNamespace = $title->getNamespace();
 	$ctInsert=false;
 	if ( count( $wgCreditTabNamespaces ) > 0 ) {
