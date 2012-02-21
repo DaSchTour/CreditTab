@@ -77,6 +77,15 @@ $messages['dsb'] = array(
 	'credits-tab-title' => 'Awtory toś togo boka',
 );
 
+/** Spanish (Español)
+ * @author Armando-Martin
+ */
+$messages['es'] = array(
+	'credits-desc' => 'Agrega un enlace a los créditos',
+	'credits-tab' => 'Créditos',
+	'credits-tab-title' => 'Créditos para esta página',
+);
+
 /** French (Français)
  * @author Gomoko
  */
