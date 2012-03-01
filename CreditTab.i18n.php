@@ -194,3 +194,12 @@ $messages['pms'] = array(
 	'credits-tab-title' => 'Arconossiment për costa pàgina',
 );
 
+/** Russian (Русский)
+ * @author Express2000
+ */
+$messages['ru'] = array(
+	'credits-desc' => 'Добавляет ссылку на сведения об авторах',
+	'credits-tab' => 'Создатели',
+	'credits-tab-title' => 'Сведения об авторах для этой страницы',
+);
+
