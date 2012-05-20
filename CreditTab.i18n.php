@@ -139,6 +139,15 @@ $messages['ia'] = array(
 	'credits-tab-title' => 'Creditos pro iste pagina',
 );
 
+/** Japanese (日本語)
+ * @author Shirayuki
+ */
+$messages['ja'] = array(
+	'credits-desc' => '帰属表示へのリンクを追加する',
+	'credits-tab' => '帰属',
+	'credits-tab-title' => 'このページの帰属情報',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
