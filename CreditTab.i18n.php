@@ -139,6 +139,15 @@ $messages['ia'] = array(
 	'credits-tab-title' => 'Creditos pro iste pagina',
 );
 
+/** Italian (Italiano)
+ * @author Beta16
+ */
+$messages['it'] = array(
+	'credits-desc' => 'Aggiunge un collegamento ai crediti',
+	'credits-tab' => 'Crediti',
+	'credits-tab-title' => 'Crediti per questa pagina',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
