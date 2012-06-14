@@ -33,7 +33,7 @@ $messages['ar'] = array(
 	'credits-tab' => 'ائتمانات',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -51,7 +51,7 @@ $messages['be-tarask'] = array(
 	'credits-tab-title' => 'Аўтары гэтай старонкі',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  */
 $messages['br'] = array(
@@ -77,7 +77,7 @@ $messages['dsb'] = array(
 	'credits-tab-title' => 'Awtory toś togo boka',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Armando-Martin
  */
 $messages['es'] = array(
@@ -86,7 +86,7 @@ $messages['es'] = array(
 	'credits-tab-title' => 'Créditos para esta página',
 );
 
-/** French (Français)
+/** French (français)
  * @author Gomoko
  */
 $messages['fr'] = array(
@@ -95,7 +95,7 @@ $messages['fr'] = array(
 	'credits-tab-title' => 'Remerciements pour cette page',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -130,7 +130,7 @@ $messages['hsb'] = array(
 	'credits-tab-title' => 'Awtorojo tuteje strony',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -139,7 +139,7 @@ $messages['ia'] = array(
 	'credits-tab-title' => 'Creditos pro iste pagina',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
@@ -175,7 +175,7 @@ $messages['lb'] = array(
 	'credits-tab-title' => 'Bedeelegt un dëser Säit',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -193,7 +193,7 @@ $messages['nl'] = array(
 	'credits-tab-title' => 'Vermeldingen voor deze pagina',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Woytecr
  */
 $messages['pl'] = array(
@@ -212,7 +212,7 @@ $messages['pms'] = array(
 	'credits-tab-title' => 'Arconossiment për costa pàgina',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Express2000
  */
 $messages['ru'] = array(
