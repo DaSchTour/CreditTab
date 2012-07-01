@@ -42,7 +42,7 @@ $messages['ast'] = array(
 	'credits-tab-title' => "Créditos d'esta páxina",
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author Wizardist
  */
 $messages['be-tarask'] = array(
@@ -68,7 +68,7 @@ $messages['de'] = array(
 	'credits-tab-title' => 'Autoren dieser Seite',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -103,7 +103,7 @@ $messages['frp'] = array(
 	'credits-tab-title' => 'Remarciements por cela pâge',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -121,7 +121,7 @@ $messages['he'] = array(
 	'credits-tab-title' => 'קרדיטים לדף זה',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
