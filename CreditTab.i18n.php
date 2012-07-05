@@ -221,3 +221,12 @@ $messages['ru'] = array(
 	'credits-tab-title' => 'Сведения об авторах для этой страницы',
 );
 
+/** Tagalog (Tagalog)
+ * @author AnakngAraw
+ */
+$messages['tl'] = array(
+	'credits-desc' => 'Nagdaragdag ng isang kawing sa mga banggit-pagkilala',
+	'credits-tab' => 'Mga banggit-pagkilala',
+	'credits-tab-title' => 'Mga banggit-pagkilala para sa pahinang ito',
+);
+
