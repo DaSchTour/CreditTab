@@ -4,7 +4,7 @@ class CreditTabHooks {
 	$out->addLink( array(
 		'rel'   => 'author',
 		'type'  => 'text/html',
-		'title' => wfMsgwfMessage( 'credits-tab' )->inContentLanguage()->escaped(),
+		'title' => wfMessage( 'credits-tab' )->inContentLanguage()->escaped(),
 		'href'  => $out->getTitle()->getLocalURL( 'action=credits' ),
 	) );
 	return true;
