@@ -4,7 +4,7 @@ class CreditTabHooks {
 	$out->addLink( array(
 		'rel'   => 'author',
 		'type'  => 'text/html',
-		'title' => wfMsg( 'credits-tab' ),
+		'title' => wfMsgwfMessage( 'credits-tab' )->inContentLanguage()->escaped(),
 		'href'  => $out->getTitle()->getLocalURL( 'action=credits' ),
 	) );
 	return true;
@@ -48,8 +48,8 @@ class CreditTabHooks {
 		if ( $title->exists() && $ctInsert ) {
 			$credit_tab = array(
 				'class' => $class_name,
-				'text' => wfMsg( 'credits-tab' ),
-				'title' => wfMsg( 'credits-tab-title' ),
+				'text' => wfMessage( 'credits-tab' )->inContentLanguage()->escaped(),
+				'title' => wfMessage( 'credits-tab-title' )->inContentLanguage()->escaped(),
 				'href' => $title->getLocalURL( 'action=credits' ),
 			);
 			// find the location of the 'edit' tab, and add

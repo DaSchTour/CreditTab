@@ -15,7 +15,7 @@ $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
 	'name' => 'CreditTab',
 	'author' => '[http://www.dasch-tour.de DaSch]',
-	'version' =>  '1.5.0',
+	'version' =>  '1.6.0',
 	'descriptionmsg' => 'credits-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Extension:CreditTab',
 );
